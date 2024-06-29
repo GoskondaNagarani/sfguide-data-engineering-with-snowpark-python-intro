@@ -1,9 +1,9 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = myaccount
-username = myusername
-password = mypassword
+accountname = ZHB89449
+username = NAGARANI
+password = Madhu1&Rani2
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
